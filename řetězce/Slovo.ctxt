@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Slovo
+comment1.params=slovo
+comment1.target=Slovo(java.lang.String)
+comment2.params=slovo
+comment2.target=void\ dejPlural(java.lang.String)
+comment3.params=slovo
+comment3.target=boolean\ jeKonecEs(java.lang.String)
+comment4.params=slovo
+comment4.target=boolean\ maY(java.lang.String)
+comment5.params=slovo
+comment5.target=boolean\ maYSeSamohlaskou(java.lang.String)
+numComments=6

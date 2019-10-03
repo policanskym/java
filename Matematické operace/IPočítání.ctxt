@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=IPo\u010D\u00EDt\u00E1n\u00ED
+comment0.text=\r\n\ Instance\ interfejsu\ {@code\ IPo\u010D\u00EDt\u00E1n\u00ED}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ IPo\u010D\u00EDt\u00E1n\u00ED}\ interface\ instances\ represent\ ...\r\n\r\n\ @author\ \ author\ name\r\n\ @version\ 0.00.0000\ \u2014\ 20yy-mm-dd\r\n
+comment1.params=x\ y
+comment1.target=double\ po\u010D\u00EDtej(double,\ double)
+numComments=2

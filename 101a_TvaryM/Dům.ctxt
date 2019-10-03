@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=D\u016Fm
+comment0.text=\r\n\ Instance\ t\u0159\u00EDdy\ {@code\ D\u016Fm}\ p\u0159edstavuj\u00ED\ ...\r\n\ The\ {@code\ D\u016Fm}\ class\ instances\ represent\ ...\r\n\r\n\ @author\ \ \u20A5\u20B1\r\n\ @version\ 0.00.0001\ \u2014\ 2019-09-12\r\n
+comment1.params=
+comment1.target=D\u016Fm()
+comment1.text=\r\n
+comment2.params=x\ y
+comment2.target=D\u016Fm(int,\ int)
+comment3.params=x\ y\ barvaKomin\ barvaStrecha\ barvaZed\ barvaHorniOkno\ barvaDolniOkna\ barvaDvere\ barvaKlika
+comment3.target=D\u016Fm(int,\ int,\ Barva,\ Barva,\ Barva,\ Barva,\ Barva,\ Barva,\ Barva)
+numComments=4
